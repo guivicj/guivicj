@@ -14,6 +14,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=guivicj&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)(https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=guivicj&label=Profile%20Views&color=11&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
