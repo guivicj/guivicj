@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 21 years old student<br><br>📚 Cross-platform application developer <br><br>🔭 Looking for a company to work for<br><br>🧠 Advanced Java, HTML, XML, css and SQL.<br><br>💻 Learning javascript, swift and kotlin<br><br>🌐 Fluent English, Spanish and Catalan<br><br>❓ Ask me about disponibility
+🧑‍🎓 21 years old student<br><br>📚 Cross-platform application developer <br><br>🔭 Looking for a company to work for<br><br>🧠 Advanced Java, HTML, XML, css and SQL.<br><br>💻 Learning react, javascript, swift and kotlin<br><br>🌐 Fluent English, Spanish and Catalan<br><br>❓ Ask me about disponibility
 
 
 ## 🌐 Socials:
